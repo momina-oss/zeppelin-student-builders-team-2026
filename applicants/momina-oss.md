@@ -1,42 +1,44 @@
-# Applicant Profile
-## Basic Information
-- **Name:** Momina Zahid
-- **University:** Jinnah University for Women
-- **City:** Karachi
-- **GitHub:** https://github.com/momina-oss
-- **LinkedIn:** www.linkedin.com/in/momina-zahid-a1468433b
+# Applicant
+
+**Name:** Momina Zahid  
+**GitHub:** https://github.com/momina-oss  
+**University:** Jinnah University for Women, Karachi
 
 ## National Team Application
-- **Applying For:** National Team Lead
-- **Primary Function:** Brand & Communications
-- **Secondary Function:** Events
-  
-## About Me
-Data Science student passionate about open source and building dev community.
 
-## Skills
-Git, GitHub, React, Teamwork
+**Applying For:** National Team Lead  
+**Primary Function:** Brand & Communications  
+**Secondary Function:** Events
 
-## Technologies
-JavaScript, React, Python
+## Contribution
 
-## Project
-I led my team at internship and built Live Session Toolkit a full stack platform for live learning sessions it has session management polls quizzes real time chat websockets camera mic screen sharing AI activity generation and JWT auth i did team coordination frontend backend API integration using Reactjs FastAPI Python SQLite it taught me full project journey from planning to final submission
+Added my applicant profile to the `applicants` folder as `momina-oss.md`.
 
-### Repository / Demo
-https://github.com/momina-oss/Live_session_toolkit
+## Why This Contribution?
 
-## Open Source Experience
-While I am new to open source, I have started exploring the open source workflow through projects like Live Session Toolkit. I am learning Git, GitHub collaboration, and documentation and I am eager to contribute more actively through ZSB.
+This profile shares my background, skills, experience, and motivation for joining the Zeppelin Student Builders National Team.
 
-## Why Zeppelin Student Builders?
-I want to be part of a community that empowers students to learn real-world development. I love building connections through content and events, and ZSB gives me the perfect platform to combine my passion for Brand & Communications and my event management skills to grow the developer community in Pakistan.
+I am a Data Science student passionate about open source, community building, content, and technology. I have experience with Git, GitHub, React, JavaScript, Python, teamwork, leadership, and event-related activities.
 
-## What Can I Contribute?
-For Brand & Communications, I can create engaging content, manage social media, design visuals, and maintain brand consistency. For Events, I can plan, promote, and execute developer events smoothly. As a Lead, I can lead the team, bring new ideas, and ensure clear communication and coordination.
+During my internship in the IT department, I led my team in developing **Live Session Toolkit**, a full-stack platform for interactive live learning sessions. The project included session management, polls, quizzes, real-time communication using WebSockets, camera/microphone and screen sharing, AI-assisted activity generation, and JWT authentication.
 
-## Recruitment Contribution
-I have created my applicant profile following the proper Git workflow and I am actively helping other applicants understand the process. I also plan to contribute to documentation and outreach content to bring more students to ZSB.
+I contributed to team coordination, frontend development, and frontend-backend API integration using React.js, FastAPI, Python, and SQLite. This experience gave me exposure to the complete project journey, from planning and development to final submission.
 
-## Additional Information
-I recently led my team during my internship in the IT department, which improved my leadership and teamwork skills. I am passionate, confident, and eager to contribute my best to Zeppelin Student Builders.
+I am interested in contributing to ZSB through Brand & Communications and Events by creating engaging content, designing visuals, supporting social media, maintaining brand consistency, and helping plan and promote developer events. As a Lead, I can also contribute through team coordination, communication, and bringing new ideas.
+
+## Testing / Verification
+
+N/A — documentation contribution.
+
+## Tally Application
+
+- Tally application submitted
+
+## Checklist
+
+- I created my applicant profile.
+- I made a meaningful contribution.
+- I followed the repository guidelines.
+- I tested my changes where applicable.
+- I did not copy another applicant's work.
+- I understand that this Pull Request does not guarantee selection.
